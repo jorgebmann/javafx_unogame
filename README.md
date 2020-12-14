@@ -3,7 +3,7 @@
 A Java FX implementation of the card game uno.
 
 
-![](bmw.gif)
+![](uno_example.png)
 
 
 ## Installation
